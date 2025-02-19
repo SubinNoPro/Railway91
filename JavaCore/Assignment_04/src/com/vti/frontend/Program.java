@@ -30,5 +30,6 @@ public class Program {
         Group group1 = new Group("com.vti.entity.Group 1",account1,accounts,LocalDate.now());
         Group group2 = new Group("com.vti.entity.Group 2", account2, userNames,LocalDate.now());
 //        group2.displayGroup();
+
     }
 }

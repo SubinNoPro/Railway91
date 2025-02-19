@@ -1,6 +1,6 @@
-package com.vti.backtend;
+package com.vti.frontend;
 
-import com.vti.entity.Student;
+import com.vti.backtend.exercise4.Student;
 
 public class Exercise4 {
     public static void main(String[] args){

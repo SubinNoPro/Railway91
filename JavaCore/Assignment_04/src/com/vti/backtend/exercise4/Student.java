@@ -1,4 +1,4 @@
-package com.vti.entity;
+package com.vti.backtend.exercise4;
 
 public class Student {
     private int studentID;
